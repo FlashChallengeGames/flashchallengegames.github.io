@@ -4,3 +4,6 @@ body{
 ul{
   text-align:right;
 }
+li{
+  display:inline;
+}
