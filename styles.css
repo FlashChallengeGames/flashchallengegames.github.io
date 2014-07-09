@@ -4,6 +4,9 @@ body{
 ul{
   text-align:right;
 }
+.ul{
+  text-align:left;
+}
 li{
   display:inline;
 }
