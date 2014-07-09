@@ -5,9 +5,6 @@ ul{
   background: rgba(200,225,200,0.7);
   text-align:right;
 }
-.ul{
-  text-align:left;
-}
 li{
   display:inline;
 }
