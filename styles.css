@@ -2,6 +2,8 @@ body {
   text-align:center;
 }
 ul {
-  display:inline;
   background:rgba(225,225,225,0.7);
+}
+li {
+  display:inline;
 }
