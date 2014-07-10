@@ -5,6 +5,7 @@ ul {
   background:rgba(225,225,225,0.7);
 }
 li {
+  padding:15px;
   text-align:right;
   display:inline;
 }
