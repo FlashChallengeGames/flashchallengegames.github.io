@@ -7,6 +7,9 @@ ul {
   padding:10px;
   margin:0px;
 }
+p {
+  font-size:25px;
+}
 li {
   padding:15px;
   display:inline;
@@ -21,4 +24,7 @@ header {
 }
 .description {
   padding:50px;
+}
+.headline{
+  font-size:70px;
 }
