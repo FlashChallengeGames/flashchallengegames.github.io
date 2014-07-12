@@ -5,6 +5,7 @@ ul {
   background:rgba(225,225,225,0.7);
   text-align:right;
   padding:10px;
+  margin:0px;
 }
 li {
   padding:15px;
@@ -17,4 +18,7 @@ header {
   background-size:cover;
   font-family:adelle sans;
   color:rgba(98, 93, 93,1);
+}
+.description {
+  padding:50px;
 }
