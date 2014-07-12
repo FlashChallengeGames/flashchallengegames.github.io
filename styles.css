@@ -4,6 +4,7 @@ body {
 ul {
   background:rgba(225,225,225,0.7);
   text-align:right;
+  padding:10px;
 }
 li {
   padding:15px;
