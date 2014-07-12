@@ -3,9 +3,9 @@ body {
 }
 ul {
   background:rgba(225,225,225,0.7);
+  text-align:right;
 }
 li {
   padding:15px;
-  text-align:right;
   display:inline;
 }
