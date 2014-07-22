@@ -30,3 +30,7 @@ header {
 .headline{
   font-size:70px;
 }
+.pFooter{
+  padding:30 10 30 10;
+  background:rgba(98, 93, 93,1);
+}
