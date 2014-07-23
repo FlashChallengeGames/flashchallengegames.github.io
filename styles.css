@@ -24,9 +24,6 @@ header {
   font-family:adelle sans;
   color:rgba(98, 93, 93,1);
 }
-footer {
-  background:url(https://cloud.githubusercontent.com/assets/7947591/3678530/fa3f69ec-129a-11e4-8179-04f26f600530.png);
-}
 .description {
   padding:50px;
 }
@@ -37,5 +34,5 @@ footer {
   color:#000000;
   font-size:13px;
   padding:50px 10px 50px 10px;
-  background:rgba(98, 93, 93,1);
+  background:url(https://cloud.githubusercontent.com/assets/7947591/3678530/fa3f69ec-129a-11e4-8179-04f26f600530.png);
 }
