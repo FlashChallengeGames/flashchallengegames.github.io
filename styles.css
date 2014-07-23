@@ -24,6 +24,9 @@ header {
   font-family:adelle sans;
   color:rgba(98, 93, 93,1);
 }
+footer {
+  background:url();
+}
 .description {
   padding:50px;
 }
