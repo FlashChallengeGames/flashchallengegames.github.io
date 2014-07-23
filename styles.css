@@ -33,6 +33,7 @@ header {
 .pFooter{
   color:#000000;
   font-size:13px;
-  padding:50px 10px 50px 10px;
+  padding:210px 0px 210px 0px;
   background:url(https://cloud.githubusercontent.com/assets/7947591/3678530/fa3f69ec-129a-11e4-8179-04f26f600530.png);
+  background-size:cover;
 }
