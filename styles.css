@@ -25,6 +25,13 @@ header {
   font-family:adelle sans;
   color:rgba(98, 93, 93,1);
 }
+table,th,td{
+  border:1px solid black;
+  width:300px;
+  font-family:adelle sans;
+  color:rgba(98, 93, 93,1);
+  font-size:20;
+}
 .description {
   padding:50px;
 }
