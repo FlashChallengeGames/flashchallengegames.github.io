@@ -32,6 +32,9 @@ table,th,td{
   color:rgba(98, 93, 93,1);
   font-size:20;
 }
+a{
+  color:rgba(98, 93, 93,1);
+}
 .description {
   padding:50px;
 }
