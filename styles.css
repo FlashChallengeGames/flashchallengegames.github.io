@@ -32,6 +32,7 @@ table,th,td{
   color:rgba(98, 93, 93,1);
   font-size:20;
   text-align:center;
+  padding:0px 40px 0px 40px;
 }
 a{
   color:rgba(98, 93, 93,1);
